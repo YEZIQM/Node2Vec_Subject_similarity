@@ -2,7 +2,10 @@
 Grant_Node2vec
 ========================================================================
 
-node2vec is an algorithmic framework for representational learning on graphs (ref paper see https://dl.acm.org/doi/abs/10.1145/2939672.2939754). Given any graph, it can learn continuous feature representations for the nodes, which can then be used for various downstream machine learning tasks.The node2vec algorithm used here is to measure the similarity of research subjects listed in the research grants. The subject co-occurence networks constructed by the the grants data are weighted and undirected.
+node2vec is an algorithmic framework for representational learning on graphs (ref paper see https://dl.acm.org/doi/abs/10.1145/2939672.2939754). 
+Given any graph, it can learn continuous feature representations for the nodes, which can then be used for various downstream machine learning tasks.
+The node2vec algorithm used here is to measure the similarity of research subjects listed in the research grants. 
+The subject co-occurence networks constructed by the the grants data are weighted and undirected.
 
 
 /////////////////////////////////////////////////////////////////////////////
